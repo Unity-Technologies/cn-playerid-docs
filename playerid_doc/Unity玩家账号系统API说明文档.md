@@ -896,7 +896,7 @@ OAuth 2.0 [token endpoint](https://tools.ietf.org/html/rfc6749#section-3.2)
 
 **2.获取到某个iddomain 下的Admin Token**
 
-*POST /oauth2/clients*
+*POST /oauth2/token*
 
 **Authorization**
 
